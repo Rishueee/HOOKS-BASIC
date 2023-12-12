@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import './App.css';
-import UseContext from './Components/Usecontext';
+import UseContext from './Components/UseContext';
 import UseState from './Components/UseState'
 import UseEffect from './Components/UseEffect';
 
